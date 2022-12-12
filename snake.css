@@ -1,0 +1,11 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+div.a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 20px solid rgba(255, 0, 0, 0.35);
+    background-image: url('snak2.jpg');
+}
